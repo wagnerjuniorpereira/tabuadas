@@ -1,4 +1,3 @@
-# Tabuadas
 # Tabuada
 Esse código imprime a tabuada de 1 a 10 de uma maneira organizada. 
 Neste código é mostrado a tabua da de 1 a 10. Usando for aninhado, 
