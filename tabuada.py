@@ -1,4 +1,5 @@
-"""Apresente a tabuada completa dos números de 1 a 10."""
+"""Apresente a tabuada completa dos números de 1 a 10,
+usando for aninhado."""
 
 for i in range(1, 11):
     print(f'Tabuada do {i}\n')
